@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkairops=self.webpackChunkkairops||[]).push([[930],{140:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/ja/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
